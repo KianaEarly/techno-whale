@@ -2,9 +2,11 @@
      
 ## Description 
 A blog to find out about all the newest things in the tech industry!
-
 https://techno-whale-c173c665c0ca.herokuapp.com/ 
-        
+
+## Screenshot
+<img width="1451" alt="image" src="https://github.com/KianaEarly/techno-whale/assets/140658147/6f1bb982-1941-4432-8943-ec4dac9ea92d">
+       
 ## About the Author
 name: Kiana Early
 > gitHubProfile: 
