@@ -27,7 +27,7 @@ npm i
 node index
         
 ### License
-![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
+![GitHub license](https://img.shields.io/badge/license-javascrpit-blue.svg) 
 > For more information about Licenses please see:  https://choosealicense.com/
         
 ### Contributing
