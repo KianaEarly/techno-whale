@@ -1,14 +1,14 @@
-# techno-whale
-        
+# Techno-Whale
+     
 ## Description 
 A blog to find out about all the newest things in the tech industry!
+
+https://techno-whale-c173c665c0ca.herokuapp.com/ 
         
 ## About the Author
 name: Kiana Early
 > gitHubProfile: 
-> [gitHub](https://github.com/KianaEarly)
-
-        
+> [gitHub](https://github.com/KianaEarly)     
         
 ## Table of Contents
 * [Installation](#installation)
